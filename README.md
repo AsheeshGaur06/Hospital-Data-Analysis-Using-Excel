@@ -1,13 +1,13 @@
-# Hospital-Emergency-Room-Dashboard-Creation
 
-# Hospital_Dashboard:
+
+# HOSPITAL DASHBOARD
 ![Hospital_Dashboard](Hospital_Dashboard.png)
 
-# Hospital_Satisfaction_Score:
+# HOSPITAL SATISFACTION SCORE TREND BY MONTH
 ![Hospital_Satisfaction_Score](Hospital_Satisfaction_Score.png)
 
-# Hospital_Average_Waittime:
+# HOSPITAL AVERAGE WAITTIME TREND BY MONTH
 ![Hospital_Average_Waittime](Hospital_Average_Waittime.png)
 
-# Hospital_Daily_ER_No_Of_Patient:
+# HOSPITAL DAILY ER NO OF PATIENT TREND BY MONTH
 ![Hospital_Daily_ER_No_Of_Patient](Hospital_Daily_ER_No_Of_Patient.png)
